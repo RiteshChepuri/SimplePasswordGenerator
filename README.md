@@ -4,4 +4,4 @@ Required Libraries for this Project are Random, String, Random Words, Pyperclip\
 To Install Libraries\
 pip install pyperclip\
 pip install Random-Word\
-Remaining Libraries are Preinstalled with Python\
+Remaining Libraries are preinstalled with Python\
